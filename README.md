@@ -60,16 +60,22 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 ---
 
 ## Key Findings
-- Higher fatigue levels are associated with lower performance scores  
-- Decision time increases as fatigue increases  
-- Users with balanced workloads show better consistency  
+- Cognitive load increases steadily with extended hours awake, indicating accumulated mental fatigue.
+- Decision-making speed declines as fatigue levels rise, leading to slower response times.
+- Sleep deprivation is strongly associated with higher error rates and increased task switching.
+- Stress levels tend to peak during afternoon and evening hours.
+- Higher caffeine consumption correlates with increased perceived stress.
+- System recommendations align with rising cognitive load levels, suggesting effective fatigue detection.
 
 ---
 
 ##  Business Recommendations
-- Optimize task distribution to reduce cognitive overload  
-- Implement break schedules to improve performance  
-- Monitor fatigue indicators in real time  
+- Implement adaptive break schedules based on fatigue indicators to prevent cognitive overload.
+- Optimize workload distribution to balance task complexity and prevent burnout.
+- Monitor real-time performance and stress metrics to detect early signs of fatigue.
+- Encourage sufficient sleep and recovery to reduce error rates and improve consistency.
+- Limit excessive caffeine dependency and promote healthier alertness strategies.
+- Integrate fatigue analytics into decision-support systems for proactive management.
 
 
 
