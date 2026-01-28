@@ -51,11 +51,11 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 ---
 
 ## Research Questions
--How does the number of hours awake affect cognitive load?
--Does stress level vary throughout the day?
--How does sleep duration affect error rates and multitasking?
--Is coffee consumption associated with higher stress levels?
--Does decision-making speed decline with fatigue?
+- How does the number of hours awake affect cognitive load?
+- Does stress level vary throughout the day?
+- How does sleep duration affect error rates and multitasking?
+- Is coffee consumption associated with higher stress levels?
+- Does decision-making speed decline with fatigue?
 
 ---
 
