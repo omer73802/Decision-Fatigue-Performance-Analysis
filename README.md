@@ -63,7 +63,4 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 - Monitor fatigue indicators in real time  
 
 
----
-
-## 📁 Project Structure
 
