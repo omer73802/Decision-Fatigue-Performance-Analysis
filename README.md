@@ -50,6 +50,15 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 
 ---
 
+## Pivot tables questions
+-How does the number of hours awake affect cognitive load?
+-Does stress level vary throughout the day?
+-How does sleep duration affect error rates and multitasking?
+-Is coffee consumption associated with higher stress levels?
+-Does decision-making speed decline with fatigue?
+
+---
+
 ## Key Findings
 - Higher fatigue levels are associated with lower performance scores  
 - Decision time increases as fatigue increases  
