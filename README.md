@@ -38,10 +38,10 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 - Performed exploratory analysis using pivot tables  
 
 ### 2. Data Analysis (SQL)
-- Aggregated performance metrics  
-- Grouped users by fatigue levels  
-- Identified trends using advanced queries  
-- Performed filtering using HAVING and subqueries  
+- Aggregated performance metrics
+- Grouped users by fatigue levels
+- Identified trends using advanced queries
+- Performed filtering using HAVING and subqueries
 
 ### 3. Visualization (Power BI)
 - Designed an interactive dashboard  
@@ -50,7 +50,7 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 
 ---
 
-## Research Questions Anaylsis
+## Research Questions
 -How does the number of hours awake affect cognitive load?
 -Does stress level vary throughout the day?
 -How does sleep duration affect error rates and multitasking?
@@ -58,6 +58,19 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 -Does decision-making speed decline with fatigue?
 
 ---
+
+## SQL Queries
+
+All analysis queries are available in the `queries.sql` file.
+
+The queries include:
+- Aggregation using AVG(), COUNT()
+- Segmentation using GROUP BY
+- Reliability filtering using HAVING
+- Ranking using ORDER BY
+
+  ---
+
 
 ## Key Findings
 - Cognitive load increases steadily with extended hours awake, indicating accumulated mental fatigue.
