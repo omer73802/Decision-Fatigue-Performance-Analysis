@@ -50,7 +50,7 @@ Source: https://www.kaggle.com/datasets/sonalshinde123/human-decision-fatigue-be
 
 ---
 
-## SQL Queries and Pivot tables questions anaylsis
+## Research Questions Anaylsis
 -How does the number of hours awake affect cognitive load?
 -Does stress level vary throughout the day?
 -How does sleep duration affect error rates and multitasking?
