@@ -90,5 +90,11 @@ The queries include:
 - Limit excessive caffeine dependency and promote healthier alertness strategies.
 - Integrate fatigue analytics into decision-support systems for proactive management.
 
+##  Author
+**Omer Eliyahu Levi**  
+B.A. in Management and Information Systems   
+GitHub: https://github.com/your-username
+LinkedIn: https://www.linkedin.com/in/omer-eliyahu-levi-218073369/
+
 
 
